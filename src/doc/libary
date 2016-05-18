@@ -1,0 +1,17 @@
+#oracle
+ojdbc6
+
+#mysql
+mysql-connector-java-5.1.38-bin
+
+#dbpool
+dbpool-7.0
+slf4j-api-1.7.21
+slf4j-jdk14-1.7.21
+
+
+#apach dbcp2
+commons-dbcp2-2.1.1
+commons-pool2-2.4.2
+commons-logging-1.2
+
